@@ -15,7 +15,7 @@ before_install:
 notifications:
   email:
     recipients:
-      - bunnyppl@gmail.com
+      - hanyhumairasit@gmail.com
     on_success: always
     on_failure: always
 branches:
